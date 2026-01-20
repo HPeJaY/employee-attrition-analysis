@@ -34,6 +34,14 @@ Key variables analyzed:
 - Engagement factors such as job involvement and work–life balance reduce turnover
 - Longer delays between promotions increase attrition probability
 
+## Visual Highlights
+
+### Correlation Analysis
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Model Feature Importance
+![Feature Importance](images/feature_importance.png)
+
 ## Business Recommendations
 - Monitor and reduce sustained overtime workloads
 - Use targeted compensation adjustments for high-risk employees
